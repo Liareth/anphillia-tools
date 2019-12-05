@@ -1,0 +1,6 @@
+[submodule "external/tinyxml2"]
+	path = external/tinyxml2
+	url = https://github.com/EctoplasmNWN/tinyxml2.git
+[submodule "external/NWNFileFormats"]
+	path = external/NWNFileFormats
+	url = https://github.com/EctoplasmNWN/NWNFileFormats.git

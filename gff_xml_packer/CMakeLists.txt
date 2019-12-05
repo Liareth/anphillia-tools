@@ -1,0 +1,2 @@
+add_executable(gff_xml_packer Main.cpp)
+target_link_libraries(gff_xml_packer gff_xml_core)
